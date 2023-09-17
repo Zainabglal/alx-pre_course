@@ -1,2 +1,4 @@
 # Ignore the tiled files (~) in gitignore file
 
+/*
+~*/
